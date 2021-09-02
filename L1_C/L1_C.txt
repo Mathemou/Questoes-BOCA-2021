@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main(void) {
+  int h1, m1, h2, m2, nh, nm;
+  scanf("%d:%d", &h1, &m1);
+  scanf("%d:%d", &h2, &m2);
+  nh = h1 + h2;
+  nm = m1 + m2;
+  if (nm > 60){
+    nm -= 60;
+    nh++;
+  }
+  if(nh>=24){
+    nh -= 24;
+    printf("+1D");
+  }
+  printf("(%d:%d)", nh, nm);
+  return 0;
+}
