@@ -1,6 +1,6 @@
 # Questões do BOCA - UFES - 2021
 
-> Esse repositório tem como objetivo ajudar quem estiver interessado em aprender C. Usando questões do BOCA que fiz quando cursei Prog II em 2021.
+> Este repositório tem como objetivo ajudar quem estiver interessado em aprender C. Usando questões do BOCA que fiz quando cursei Prog II em 2021.
 
 
 ## :warning: Lembrete importante !!! :warning: 
